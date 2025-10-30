@@ -1,9 +1,3 @@
-
 export function App() {
-
-  return (
-    <div>Helllo world</div>
-  )
+  return <div>Helllo world</div>
 }
-
-
